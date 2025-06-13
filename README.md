@@ -1,4 +1,5 @@
-```markdown
+---
+
 # CTF-IDF and Modified CTF-IDF for Cluster Keyword Extraction
 
 This repository provides Python functions designed to perform **K-Means clustering** on tabular data and then extract the most important keywords from each generated cluster using **TF-IDF (Term Frequency-Inverse Document Frequency)**, along with two **modified versions of CTF-IDF (Class-based Term Frequency-Inverse Document Frequency)**.
@@ -179,7 +180,10 @@ Feel free to open issues or submit pull requests if you have suggestions for imp
 ## License
 
 This project is open-sourced under the MIT License. See the `LICENSE` file for more details.
-```
+
+
+---
+
 
 ## Contact
 
